@@ -9,6 +9,6 @@ int print_last_digit(int n)
 {
 int lst_digit;
 lst_digit = n % 10;
-printf("%d", lst_digit);
+_putchar(lst_digit+48);
 return (lst_digit);
 }
