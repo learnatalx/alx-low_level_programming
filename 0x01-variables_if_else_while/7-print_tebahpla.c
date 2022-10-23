@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - Prints reversed alphabet.
+ *main -entry point
  *
- * Return: Always 0 (Success)
+ *Return:zero
  */
 int main(void)
 {
