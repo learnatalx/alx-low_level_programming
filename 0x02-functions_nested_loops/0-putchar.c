@@ -2,8 +2,7 @@
 #include "main.h"
 /**
  *main - entry point
- *_putchar -writes the character to stdout
- *@c: accepts the character
+ *
  *Return: zero
  */
 int main(void)
