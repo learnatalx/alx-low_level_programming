@@ -11,4 +11,5 @@ for(i=97;i<124;i++)
 {
 putchar(i);
 }
+return (0);
 }
