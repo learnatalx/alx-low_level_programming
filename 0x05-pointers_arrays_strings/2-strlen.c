@@ -2,6 +2,7 @@
 /**
  *_strlen - the length of char array
  *@s: the string or char array
+ *Return: the length of the string
  */
 int _strlen(char *s)
 {
