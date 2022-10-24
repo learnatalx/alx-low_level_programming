@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  *_strlen - the length of char array
- *@s: the string or char array 
+ *@s: the string or char array
  */
 int _strlen(char *s)
 {
