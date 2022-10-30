@@ -8,4 +8,5 @@ for(i=strlen(s);i>=0;i--)
 {
 printf("%c",s[i]);
 }
+printf("\n");
 }
