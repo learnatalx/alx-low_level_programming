@@ -1,0 +1,12 @@
+#include <stdio.h>
+void _puts_recursion(char *s)
+{
+for(int i=0;i<strlen(*s);i++)
+{
+if(s[i] == '\0')
+{
+exit(0);
+}
+_putchar(s[i]);
+}
+}
